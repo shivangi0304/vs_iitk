@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Vivekananda Samiti IITK</title>
+    <link>https://iitk.ac.in/vs/categories/</link>
+    <description>Recent content in Categories on Vivekananda Samiti IITK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Vivekananda Samiti, IIT Kanpur All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://iitk.ac.in/vs/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://iitk.ac.in/vs/categories/artificial-intelligence/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://iitk.ac.in/vs/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company News</title>
+      <link>https://iitk.ac.in/vs/categories/company-news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://iitk.ac.in/vs/categories/company-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legacy Support</title>
+      <link>https://iitk.ac.in/vs/categories/legacy-support/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://iitk.ac.in/vs/categories/legacy-support/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
